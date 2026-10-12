@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-12T00:00:00.000Z",
+  "sites": [
+    { "id": "blairgowrie", "name": "Blairgowrie back beach", "lat": -38.374, "lng": 144.767 },
+    { "id": "rye", "name": "Rye reef", "lat": -38.372, "lng": 144.838 },
+    { "id": "portsea", "name": "Portsea", "lat": -38.319, "lng": 144.713 },
+    { "id": "popes-eye", "name": "Popes Eye", "lat": -38.277, "lng": 144.699 },
+    { "id": "queenscliff", "name": "Queenscliff", "lat": -38.268, "lng": 144.662 },
+    { "id": "flinders", "name": "Flinders", "lat": -38.477, "lng": 145.019 },
+    { "id": "woolamai", "name": "Cape Woolamai", "lat": -38.561, "lng": 145.363 },
+    { "id": "peterborough", "name": "Peterborough", "lat": -38.608, "lng": 142.875 }
+  ]
+}
