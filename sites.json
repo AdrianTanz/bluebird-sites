@@ -1,7 +1,13 @@
 {
-  "version": 3,
-  "updatedAt": "2026-10-17T23:13:03.000Z",
+  "version": 4,
+  "updatedAt": "2026-10-17T23:15:29.000Z",
   "sites": [
+    {
+      "id": "peterborough",
+      "name": "Peterborough",
+      "lat": -38.608,
+      "lng": 142.875
+    },
     {
       "id": "anglesea-reef",
       "name": "Anglesea Reef",
@@ -19,6 +25,18 @@
       "name": "Fisherman's Beach",
       "lat": -38.32809,
       "lng": 144.33123
+    },
+    {
+      "id": "queenscliff",
+      "name": "Queenscliff",
+      "lat": -38.268,
+      "lng": 144.662
+    },
+    {
+      "id": "popes-eye",
+      "name": "Popes Eye",
+      "lat": -38.277,
+      "lng": 144.699
     },
     {
       "id": "portsea",
@@ -100,7 +118,7 @@
     },
     {
       "id": "crystals-reef",
-      "name": "Crystals Reef",
+      "name": "Crystals Reef, Williamstown",
       "lat": -37.86922,
       "lng": 144.88759
     },
