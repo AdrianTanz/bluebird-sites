@@ -1,354 +1,360 @@
 {
-  "version": 2,
-  "updatedAt": "2026-10-17T23:11:15.000Z",
+  "version": 3,
+  "updatedAt": "2026-10-17T23:13:03.000Z",
   "sites": [
     {
-      "id": "blairgowrie",
-      "name": "Blairgowrie back beach",
-      "lat": -38.374,
-      "lng": 144.767
+      "id": "anglesea-reef",
+      "name": "Anglesea Reef",
+      "lat": -38.41694,
+      "lng": 144.19422
     },
     {
-      "id": "rye",
-      "name": "Rye reef",
-      "lat": -38.372,
-      "lng": 144.838
+      "id": "bells-beach",
+      "name": "Bells Beach",
+      "lat": -38.37365,
+      "lng": 144.28024
+    },
+    {
+      "id": "fishermans-beach",
+      "name": "Fisherman's Beach",
+      "lat": -38.32809,
+      "lng": 144.33123
     },
     {
       "id": "portsea",
-      "name": "Portsea",
-      "lat": -38.319,
-      "lng": 144.713
+      "name": "Portsea Pier",
+      "lat": -38.31821,
+      "lng": 144.71551
     },
     {
-      "id": "popes-eye",
-      "name": "Popes Eye",
-      "lat": -38.277,
-      "lng": 144.699
+      "id": "diamond-bay",
+      "name": "Diamond bay",
+      "lat": -38.35538,
+      "lng": 144.73949
     },
     {
-      "id": "queenscliff",
-      "name": "Queenscliff",
-      "lat": -38.268,
-      "lng": 144.662
-    },
-    {
-      "id": "flinders",
-      "name": "Flinders",
-      "lat": -38.477,
-      "lng": 145.019
-    },
-    {
-      "id": "woolamai",
-      "name": "Cape Woolamai",
-      "lat": -38.561,
-      "lng": 145.363
-    },
-    {
-      "id": "peterborough",
-      "name": "Peterborough",
-      "lat": -38.608,
-      "lng": 142.875
-    },
-    {
-      "id": "mornington",
-      "name": "Mornington Pier",
-      "lat": -38.213,
-      "lng": 145.034
-    },
-    {
-      "id": "mount-martha",
-      "name": "Mount Martha",
-      "lat": -38.269,
-      "lng": 145.01
-    },
-    {
-      "id": "frankston",
-      "name": "Frankston Pier",
-      "lat": -38.145,
-      "lng": 145.113
+      "id": "koonya",
+      "name": "Koonya",
+      "lat": -38.36326,
+      "lng": 144.74895
     },
     {
       "id": "sorrento",
       "name": "Sorrento",
-      "lat": -38.334,
-      "lng": 144.744
+      "lat": -38.34412,
+      "lng": 144.75941
     },
     {
-      "id": "sorrento-back-beach",
-      "name": "Sorrento back beach",
-      "lat": -38.352,
-      "lng": 144.734
+      "id": "blairgowrie",
+      "name": "Bridgewater Bay",
+      "lat": -38.37672,
+      "lng": 144.76608
     },
     {
-      "id": "portsea-back-beach",
-      "name": "Portsea back beach",
-      "lat": -38.33,
-      "lng": 144.692
+      "id": "pearses-beach",
+      "name": "Pearses Beach",
+      "lat": -38.38099,
+      "lng": 144.77275
     },
     {
-      "id": "cape-schanck",
-      "name": "Cape Schanck",
-      "lat": -38.496,
-      "lng": 144.886
+      "id": "blairgowrie-pier",
+      "name": "Blairgowrie Pier",
+      "lat": -38.35779,
+      "lng": 144.77562
+    },
+    {
+      "id": "rye-no-16",
+      "name": "Rye No. 16",
+      "lat": -38.39427,
+      "lng": 144.78883
+    },
+    {
+      "id": "rye",
+      "name": "Rye Pier",
+      "lat": -38.36793,
+      "lng": 144.82465
+    },
+    {
+      "id": "hobsons-bay",
+      "name": "Hobson's Bay",
+      "lat": -37.87099,
+      "lng": 144.84507
     },
     {
       "id": "gunnamatta",
       "name": "Gunnamatta",
-      "lat": -38.385,
-      "lng": 144.86
+      "lat": -38.44479,
+      "lng": 144.85158
     },
     {
-      "id": "rosebud",
-      "name": "Rosebud Pier",
-      "lat": -38.351,
-      "lng": 144.907
+      "id": "fingal",
+      "name": "Fingal",
+      "lat": -38.47254,
+      "lng": 144.87797
     },
     {
-      "id": "dromana",
-      "name": "Dromana Pier",
-      "lat": -38.332,
-      "lng": 144.965
+      "id": "cape-schanck-west",
+      "name": "Cape Schanck (West)",
+      "lat": -38.495,
+      "lng": 144.88524
+    },
+    {
+      "id": "crystals-reef",
+      "name": "Crystals Reef",
+      "lat": -37.86922,
+      "lng": 144.88759
+    },
+    {
+      "id": "cape-schanck-east",
+      "name": "Cape Schanck (East)",
+      "lat": -38.49666,
+      "lng": 144.89033
+    },
+    {
+      "id": "bushrangers-bay",
+      "name": "Bushranger's Bay",
+      "lat": -38.49119,
+      "lng": 144.91085
+    },
+    {
+      "id": "ian-rd",
+      "name": "Ian Rd",
+      "lat": -38.29579,
+      "lng": 144.98272
+    },
+    {
+      "id": "brighton",
+      "name": "Brighton",
+      "lat": -37.91759,
+      "lng": 144.98473
+    },
+    {
+      "id": "green-point",
+      "name": "Green Point",
+      "lat": -37.9259,
+      "lng": 144.98494
+    },
+    {
+      "id": "flinders-blowhole",
+      "name": "Flinders Blowhole",
+      "lat": -38.48572,
+      "lng": 144.98997
+    },
+    {
+      "id": "mount-martha",
+      "name": "Mount Martha",
+      "lat": -38.28093,
+      "lng": 144.99511
+    },
+    {
+      "id": "pillars",
+      "name": "Pillars",
+      "lat": -38.27581,
+      "lng": 144.99953
+    },
+    {
+      "id": "black-rock-jetty",
+      "name": "Black Rock Jetty",
+      "lat": -37.9694,
+      "lng": 145.00876
     },
     {
       "id": "black-rock",
       "name": "Black Rock",
-      "lat": -37.969,
-      "lng": 145.01
+      "lat": -37.97584,
+      "lng": 145.01451
     },
     {
-      "id": "ricketts-point",
-      "name": "Ricketts Point",
-      "lat": -37.99,
-      "lng": 145.029
+      "id": "flinders-west-head",
+      "name": "Flinders West head",
+      "lat": -38.48439,
+      "lng": 145.02557
     },
     {
-      "id": "altona",
-      "name": "Altona Pier",
-      "lat": -37.873,
-      "lng": 144.83
+      "id": "flinders",
+      "name": "Flinders Pier",
+      "lat": -38.47675,
+      "lng": 145.02836
     },
     {
-      "id": "williamstown",
-      "name": "Williamstown",
-      "lat": -37.861,
-      "lng": 144.906
+      "id": "schnapper-point",
+      "name": "Schnapper Point",
+      "lat": -38.21272,
+      "lng": 145.03218
     },
     {
-      "id": "point-lonsdale",
-      "name": "Point Lonsdale",
-      "lat": -38.276,
-      "lng": 144.62
+      "id": "beaumaris-cliffs",
+      "name": "Beaumaris Cliffs",
+      "lat": -37.98954,
+      "lng": 145.04684
     },
     {
-      "id": "lonsdale-wall",
-      "name": "Lonsdale Wall",
-      "lat": -38.285,
-      "lng": 144.639
+      "id": "shoreham",
+      "name": "Shoreham",
+      "lat": -38.4338,
+      "lng": 145.05573
     },
     {
-      "id": "indented-head",
-      "name": "Indented Head",
-      "lat": -38.149,
-      "lng": 144.717
+      "id": "moondah-beach",
+      "name": "Moondah Beach",
+      "lat": -38.18387,
+      "lng": 145.0722
     },
     {
-      "id": "portarlington",
-      "name": "Portarlington Pier",
-      "lat": -38.113,
-      "lng": 144.652
+      "id": "ranelagh-beach",
+      "name": "Ranelagh Beach",
+      "lat": -38.17919,
+      "lng": 145.07393
     },
     {
-      "id": "st-leonards",
-      "name": "St Leonards",
-      "lat": -38.17,
-      "lng": 144.721
+      "id": "mordialloc",
+      "name": "Mordialloc",
+      "lat": -38.01108,
+      "lng": 145.08243
     },
     {
-      "id": "barwon-heads",
-      "name": "Barwon Heads",
-      "lat": -38.29,
-      "lng": 144.503
+      "id": "canadian-bay",
+      "name": "Canadian Bay",
+      "lat": -38.16747,
+      "lng": 145.08508
     },
     {
-      "id": "ocean-grove",
-      "name": "Ocean Grove",
-      "lat": -38.274,
-      "lng": 144.552
+      "id": "daveys-bay",
+      "name": "Davey's Bay",
+      "lat": -38.16265,
+      "lng": 145.09208
     },
     {
-      "id": "point-leo",
-      "name": "Point Leo",
-      "lat": -38.428,
-      "lng": 145.076
+      "id": "nobbies",
+      "name": "Nobbies",
+      "lat": -38.51948,
+      "lng": 145.11545
     },
     {
-      "id": "balnarring",
-      "name": "Balnarring Reef",
-      "lat": -38.398,
-      "lng": 145.114
+      "id": "cowrie-beach",
+      "name": "Cowrie Beach",
+      "lat": -38.50815,
+      "lng": 145.12386
     },
     {
-      "id": "san-remo",
-      "name": "San Remo",
-      "lat": -38.521,
-      "lng": 145.365
-    },
-    {
-      "id": "cowes",
-      "name": "Cowes",
-      "lat": -38.446,
-      "lng": 145.24
-    },
-    {
-      "id": "kitty-miller",
-      "name": "Kitty Miller Bay",
-      "lat": -38.517,
-      "lng": 145.201
-    },
-    {
-      "id": "smiths-beach",
-      "name": "Smiths Beach",
-      "lat": -38.51,
-      "lng": 145.26
-    },
-    {
-      "id": "ycw",
-      "name": "YCW Beach",
-      "lat": -38.509,
-      "lng": 145.282
-    },
-    {
-      "id": "pyramid-rock",
-      "name": "Pyramid Rock",
-      "lat": -38.53,
-      "lng": 145.25
+      "id": "shelley-beach",
+      "name": "Shelley Beach",
+      "lat": -38.50662,
+      "lng": 145.13529
     },
     {
       "id": "cat-bay",
       "name": "Cat Bay",
-      "lat": -38.508,
-      "lng": 145.24
+      "lat": -38.50383,
+      "lng": 145.14239
     },
     {
-      "id": "inverloch",
-      "name": "Inverloch",
-      "lat": -38.634,
-      "lng": 145.73
+      "id": "kitty-miller-bay",
+      "name": "Kitty Miller Bay",
+      "lat": -38.51158,
+      "lng": 145.1704
+    },
+    {
+      "id": "pyramid-rock",
+      "name": "Pyramid Rock",
+      "lat": -38.52938,
+      "lng": 145.22271
+    },
+    {
+      "id": "cunningham-bay",
+      "name": "Cunningham Bay",
+      "lat": -38.50984,
+      "lng": 145.2377
+    },
+    {
+      "id": "smiths-beach",
+      "name": "Smiths Beach",
+      "lat": -38.50613,
+      "lng": 145.25331
+    },
+    {
+      "id": "sunderland-bay",
+      "name": "Sunderland Bay",
+      "lat": -38.50736,
+      "lng": 145.27048
+    },
+    {
+      "id": "woolamai",
+      "name": "Cape Woolamai",
+      "lat": -38.56075,
+      "lng": 145.34215
+    },
+    {
+      "id": "red-point",
+      "name": "Red Point",
+      "lat": -38.5493,
+      "lng": 145.36031
+    },
+    {
+      "id": "harmers-haven",
+      "name": "Harmers Haven",
+      "lat": -38.60981,
+      "lng": 145.53267
     },
     {
       "id": "cape-paterson",
       "name": "Cape Paterson",
-      "lat": -38.675,
-      "lng": 145.62
+      "lat": -38.67432,
+      "lng": 145.61839
     },
     {
-      "id": "eagles-nest",
-      "name": "Eagles Nest",
-      "lat": -38.67,
-      "lng": 145.66
+      "id": "cape-liptrap",
+      "name": "Cape Liptrap",
+      "lat": -38.89818,
+      "lng": 145.91037
     },
     {
-      "id": "torquay",
-      "name": "Torquay",
-      "lat": -38.306,
-      "lng": 144.378
+      "id": "tongue-point",
+      "name": "Tongue Point",
+      "lat": -38.99304,
+      "lng": 146.25269
     },
     {
-      "id": "jan-juc",
-      "name": "Jan Juc",
-      "lat": -38.349,
-      "lng": 144.303
+      "id": "leonard-point",
+      "name": "Leonard Point",
+      "lat": -39.0253,
+      "lng": 146.29072
     },
     {
-      "id": "anglesea",
-      "name": "Anglesea",
-      "lat": -38.428,
-      "lng": 144.184
+      "id": "pillar-point",
+      "name": "Pillar Point",
+      "lat": -39.03709,
+      "lng": 146.30317
     },
     {
-      "id": "point-roadknight",
-      "name": "Point Roadknight",
-      "lat": -38.437,
-      "lng": 144.175
+      "id": "norman-bay",
+      "name": "Norman Bay",
+      "lat": -39.04954,
+      "lng": 146.31768
     },
     {
-      "id": "aireys-inlet",
-      "name": "Aireys Inlet",
-      "lat": -38.469,
-      "lng": 144.102
+      "id": "sealers-cove",
+      "name": "Sealers Cove",
+      "lat": -39.01547,
+      "lng": 146.44048
     },
     {
-      "id": "lorne",
-      "name": "Lorne",
-      "lat": -38.506,
-      "lng": 144.005
+      "id": "refuge-cove",
+      "name": "Refuge Cove",
+      "lat": -39.03916,
+      "lng": 146.47028
     },
     {
-      "id": "apollo-bay",
-      "name": "Apollo Bay",
-      "lat": -38.731,
-      "lng": 143.699
+      "id": "salmon-rocks",
+      "name": "Salmon Rocks",
+      "lat": -37.81106,
+      "lng": 148.72545
     },
     {
-      "id": "cape-otway",
-      "name": "Cape Otway",
-      "lat": -38.854,
-      "lng": 143.538
-    },
-    {
-      "id": "port-campbell",
-      "name": "Port Campbell",
-      "lat": -38.62,
-      "lng": 142.993
-    },
-    {
-      "id": "warrnambool",
-      "name": "Warrnambool",
-      "lat": -38.403,
-      "lng": 142.473
-    },
-    {
-      "id": "port-fairy",
-      "name": "Port Fairy",
-      "lat": -38.393,
-      "lng": 142.232
-    },
-    {
-      "id": "portland",
-      "name": "Portland",
-      "lat": -38.343,
-      "lng": 141.608
-    },
-    {
-      "id": "cape-bridgewater",
-      "name": "Cape Bridgewater",
-      "lat": -38.379,
-      "lng": 141.412
-    },
-    {
-      "id": "walkerville",
-      "name": "Walkerville",
-      "lat": -38.86,
-      "lng": 146.0
-    },
-    {
-      "id": "whisky-bay",
-      "name": "Whisky Bay",
-      "lat": -38.98,
-      "lng": 146.3
-    },
-    {
-      "id": "cape-conran",
-      "name": "Cape Conran",
-      "lat": -37.805,
-      "lng": 148.73
-    },
-    {
-      "id": "mallacoota",
-      "name": "Mallacoota",
-      "lat": -37.56,
-      "lng": 149.76
+      "id": "green-cape",
+      "name": "Green Cape",
+      "lat": -37.21496,
+      "lng": 150.01692
     }
   ]
 }
