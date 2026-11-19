@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-17T23:15:29.000Z",
+  "updatedAt": "2026-11-19T02:35:34Z",
   "sites": [
     {
       "id": "peterborough",
@@ -373,6 +373,12 @@
       "name": "Green Cape",
       "lat": -37.21496,
       "lng": 150.01692
+    },
+    {
+      "id": "frankston-pier",
+      "name": "Frankston Pier",
+      "lat": -38.14612,
+      "lng": 145.11458
     }
   ]
 }
